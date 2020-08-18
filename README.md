@@ -141,8 +141,6 @@ $ bin/kafka-server-start.sh config/server.properties &
 ##search topic
 $ ./bin/kafka-topics.sh --list --bootstrap-server localhost:9093
 
-##topic describe
-
 ```
 </br>
 </br>
