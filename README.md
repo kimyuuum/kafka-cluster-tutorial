@@ -88,6 +88,12 @@ $ bin/kafka-server-start.sh config/server2.properties &
 ```bash
 $ bin/kafka-topics.sh --create --bootstrap-server localhost:9093 --replication-factor 3 --partitions 1 --topic my-replicated-topic
 ```
+
+`kafka-topics.sh` : topic execute file </br>
+`replication-factor` : can decide replica count </br>
+`partitions` : can decide partition count </br>
+
+
 </br>
 
 
